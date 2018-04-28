@@ -6,6 +6,7 @@
 * 128GB Samsung Evo
 * 64GB Sandisk Ultra
 * 32GB Sandisk Ultra
+* 16GB Sandisk Ultra Pro
 ## Reported NOT Working:
 
 * 32GB Samsung Evo Plus
